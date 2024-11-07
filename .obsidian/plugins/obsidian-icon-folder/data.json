@@ -6,6 +6,8 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiPencil",
+      "LiExcalidrawIcon",
       "LiDatabase"
     ],
     "recentlyUsedIconsSize": 5,
@@ -29,5 +31,12 @@
     "lucideIconPackType": "native",
     "debugMode": false
   },
-  "SQL": "LiDatabase"
+  "SQL": {
+    "iconName": "LiDatabase",
+    "iconColor": "#14b8a6"
+  },
+  "SQL/Diagrams": {
+    "iconName": "LiPencil",
+    "iconColor": "#14b8a6"
+  }
 }
