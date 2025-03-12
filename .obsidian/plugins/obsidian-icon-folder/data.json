@@ -9,6 +9,8 @@
       "LiBookOpenText",
       "🔐",
       "LiCoffee",
+      "LiPencil",
+      "LiExcalidrawIcon",
       "LiDatabase"
     ],
     "recentlyUsedIconsSize": 5,
@@ -33,7 +35,14 @@
     "debugMode": false,
     "useInternalPlugins": false
   },
-  "SQL": "LiDatabase",
+  "SQL": {
+    "iconName": "LiDatabase",
+    "iconColor": "#14b8a6"
+  },
+  "SQL/Diagrams": {
+    "iconName": "LiPencil",
+    "iconColor": "#14b8a6"
+  },
   "Java": "LiCoffee",
   "Java/Spring Authentication": "🔐",
   "Java/Hibernate": "LiDatabase",
