@@ -6,6 +6,9 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiBookOpenText",
+      "🔐",
+      "LiCoffee",
       "LiDatabase"
     ],
     "recentlyUsedIconsSize": 5,
@@ -27,7 +30,12 @@
     "iconsInLinksEnabled": true,
     "iconIdentifier": ":",
     "lucideIconPackType": "native",
-    "debugMode": false
+    "debugMode": false,
+    "useInternalPlugins": false
   },
-  "SQL": "LiDatabase"
+  "SQL": "LiDatabase",
+  "Java": "LiCoffee",
+  "Java/Spring Authentication": "🔐",
+  "Java/Hibernate": "LiDatabase",
+  "How To Learn": "LiBookOpenText"
 }

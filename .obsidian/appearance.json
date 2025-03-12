@@ -1,3 +1,6 @@
 {
-  "cssTheme": "Catppuccin"
+  "cssTheme": "Catppuccin",
+  "textFontFamily": "roboto slab",
+  "monospaceFontFamily": "roboto slab",
+  "interfaceFontFamily": "roboto slab"
 }
