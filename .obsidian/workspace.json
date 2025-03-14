@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "a9982a869f1a1bc6",
+        "id": "e7487041b48d1de3",
         "type": "tabs",
         "children": [
           {
-            "id": "3e5b6985c7202c63",
+            "id": "e202ce196d9502f6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/Untitled.md",
+                "file": "Java/More About OOP/Records.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Records"
             }
           }
         ]
@@ -186,14 +186,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3e5b6985c7202c63",
+  "active": "e202ce196d9502f6",
   "lastOpenFiles": [
+    "Java/More About OOP/Enums.md",
+    "Java/More About OOP/Records.md",
+    "Java/More About OOP/Method Chaining.md",
+    "Java/More About OOP/Object Life Cycle.md",
+    "Java/Hibernate/Introduction.md",
+    "Java/More About OOP",
+    "Linux/Untitled.md",
     "Java/OOP Basics/Packages.md",
     "conflict-files-obsidian-git.md",
     "Java/OOP Basics/Nested Class.md",
     "Java/OOP Basics/Classes & Objects.md",
     "Java/OOP Basics/Final Keyword.md",
-    "Linux/Untitled.md",
     "Java/OOP Basics/Static Keyword.md",
     "Linux",
     "Java/OOP Basics/Access Specifiers.md",
@@ -209,21 +215,15 @@
     "Java/Spring GraphQl",
     "Java/Spring Rest Controller/Create a new controller.md",
     "Java/Reactive Programming",
-    "Java/Hibernate/Introduction.md",
     "Java/Spring Rest Controller",
     "Java/Threads.md",
     "SQL/Introduction.md",
     "Java/Hibernate",
     "SQL/Tables.md",
     "Java/Spring Authentication",
-    "Java",
     "SQL/Create New Database.md",
     "SQL/Queries/Delete A Row.md",
     "SQL/Queries/Updating A Row.md",
-    "SQL/Queries/Filtering.md",
-    "SQL/Data Types.md",
-    "Pasted image 20241106113318.png",
-    "README.md",
-    "Welcome.md"
+    "Pasted image 20241106113318.png"
   ]
 }
